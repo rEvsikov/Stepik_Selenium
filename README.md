@@ -10,10 +10,10 @@
 
 </p>
 
-<span style='color: red;'>lesson3.1</span> - урок 3.1. 
+<span style='color: red;'>lesson3.1</span> - урок 3.1. <br>
 [![](https://i.imgur.com/j6Rnh8Z.png)](https://i.imgur.com/j6Rnh8Z.png)
 
-<span style='color: blue;'>step11</span> - шаг 11
+<span style='color: blue;'>step11</span> - шаг 11 <br>
 ![](https://i.imgur.com/naYNfJI.png)
 
 
